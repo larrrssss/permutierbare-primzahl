@@ -1,0 +1,12 @@
+{
+  "name": "permutierbare-primzahlen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/algorithmus.js",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.15.0"
+  }
+}
