@@ -1,6 +1,6 @@
 # Permutierbare Primzahlen
 
-Bei einer Zahl handelt es sich um eine Primzahl, die bei einer beliebigen Neuanordnung der einzelnen Ziffern ebenfalls eine Primzahl ergibt. Die Zahl ist demnach unabhängig von der Anordnung der Ziffern eine Primzahl.
+Bei einer permutierbaren Primzahl handelt es sich um eine Primzahl, die bei einer beliebigen Neuanordnung der einzelnen Ziffern ebenfalls eine Primzahl ergibt. Die Zahl ist demnach unabhängig von der Anordnung der Ziffern eine Primzahl.
 
 Die Zahl `73` ist eine permutierbare Primzahl, da beide Kombinationen (`73` und `37`) jeweils Primzahlen sind.
 
